@@ -7,9 +7,13 @@ let place = "earth";
 
 <p><a href="page.webc">Another page</a>.</p>
 
+
 <!--- is-land: https://www.11ty.dev/docs/plugins/partial-hydration/ --->
 <!---
 	<is-land on:visible>
 		This is an island.
 	</is-land>
 --->
+<img src="./assets/images/362045.jpg" alt="dark, black, mountains"
+ width="800"
+ height="675" />
